@@ -1,0 +1,5 @@
+<md-toolbar color="primary">
+    <span>Tech2Talk</span>
+    <span class="fill"></span>
+    <button md-button *ngFor="let menu of menus" [routerLink]="[menu.link]">{{ menu.title }}</button>
+</md-toolbar>

@@ -1,0 +1,13 @@
+<md-card>
+    <md-card-title>Events</md-card-title>
+    <md-nav-list md-card-image>
+        <md-list-item *ngFor="let item of events">
+            <h2>12</h2>
+            <h3 md-line>{{ item.title }}</h3>
+            <p md-line>
+                <span> {{ item.location }} </span>
+            </p>
+            <img md-list-avatar *ngFor="let speaker of item.speakers" [src]="imgUrl + speaker.id" alt="{{ speaker.firstName }}">
+        </md-list-item>
+    </md-nav-list>
+</md-card>
