@@ -2,7 +2,7 @@
     <md-card-title>Events</md-card-title>
     <md-nav-list md-card-image>
         <md-list-item *ngFor="let item of events">
-            <h2>12</h2>
+            <h2>{{ item.date }}</h2>
             <h3 md-line>{{ item.title }}</h3>
             <p md-line>
                 <span> {{ item.location }} </span>

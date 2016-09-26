@@ -221,105 +221,105 @@ export const EVENTS: Event[] = [
         location: 'Gomel',
         agenda: [],
         slides: []
-    },
-    {
-        id: ,
-        title: 'BEM',
-        speakers: [
-        ],
-        date: '',
-        location: 'Gomel',
-        agenda: [],
-        slides: []
-    },
-    {
-        id: ,
-        title: '',
-        speakers: [
-        ],
-        date: '',
-        location: 'Gomel',
-        agenda: [],
-        slides: []
-    },
-    {
-        id: ,
-        title: '',
-        speakers: [
-        ],
-        date: '',
-        location: 'Gomel',
-        agenda: [],
-        slides: []
-    },
-    {
-        id: ,
-        title: '',
-        speakers: [
-        ],
-        date: '',
-        location: 'Gomel',
-        agenda: [],
-        slides: []
-    },
-    {
-        id: ,
-        title: '',
-        speakers: [
-        ],
-        date: '',
-        location: 'Gomel',
-        agenda: [],
-        slides: []
-    },
-    {
-        id: ,
-        title: '',
-        speakers: [
-        ],
-        date: '',
-        location: 'Gomel',
-        agenda: [],
-        slides: []
-    },
-    {
-        id: ,
-        title: '',
-        speakers: [
-        ],
-        date: '',
-        location: 'Gomel',
-        agenda: [],
-        slides: []
-    },
-    {
-        id: ,
-        title: '',
-        speakers: [
-        ],
-        date: '',
-        location: 'Gomel',
-        agenda: [],
-        slides: []
-    },
-    {
-        id: ,
-        title: '',
-        speakers: [
-        ],
-        date: '',
-        location: 'Gomel',
-        agenda: [],
-        slides: []
-    },
-    {
-        id: ,
-        title: '',
-        speakers: [
-        ],
-        date: '',
-        location: 'Gomel',
-        agenda: [],
-        slides: []
     }
+    // {
+    //     id: ,
+    //     title: 'BEM',
+    //     speakers: [
+    //     ],
+    //     date: '',
+    //     location: 'Gomel',
+    //     agenda: [],
+    //     slides: []
+    // },
+    // {
+    //     id: ,
+    //     title: '',
+    //     speakers: [
+    //     ],
+    //     date: '',
+    //     location: 'Gomel',
+    //     agenda: [],
+    //     slides: []
+    // },
+    // {
+    //     id: ,
+    //     title: '',
+    //     speakers: [
+    //     ],
+    //     date: '',
+    //     location: 'Gomel',
+    //     agenda: [],
+    //     slides: []
+    // },
+    // {
+    //     id: ,
+    //     title: '',
+    //     speakers: [
+    //     ],
+    //     date: '',
+    //     location: 'Gomel',
+    //     agenda: [],
+    //     slides: []
+    // },
+    // {
+    //     id: ,
+    //     title: '',
+    //     speakers: [
+    //     ],
+    //     date: '',
+    //     location: 'Gomel',
+    //     agenda: [],
+    //     slides: []
+    // },
+    // {
+    //     id: ,
+    //     title: '',
+    //     speakers: [
+    //     ],
+    //     date: '',
+    //     location: 'Gomel',
+    //     agenda: [],
+    //     slides: []
+    // },
+    // {
+    //     id: ,
+    //     title: '',
+    //     speakers: [
+    //     ],
+    //     date: '',
+    //     location: 'Gomel',
+    //     agenda: [],
+    //     slides: []
+    // },
+    // {
+    //     id: ,
+    //     title: '',
+    //     speakers: [
+    //     ],
+    //     date: '',
+    //     location: 'Gomel',
+    //     agenda: [],
+    //     slides: []
+    // },
+    // {
+    //     id: ,
+    //     title: '',
+    //     speakers: [
+    //     ],
+    //     date: '',
+    //     location: 'Gomel',
+    //     agenda: [],
+    //     slides: []
+    // },
+    // {
+    //     id: ,
+    //     title: '',
+    //     speakers: [
+    //     ],
+    //     date: '',
+    //     location: 'Gomel',
+    //     agenda: [],
+    //     slides: []
+    // }
 ];
